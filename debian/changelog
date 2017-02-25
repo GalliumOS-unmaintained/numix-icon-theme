@@ -1,0 +1,11 @@
+numix-icon-theme (0.3+875~201701252032~ubuntu16.04.1) xenial; urgency=low
+
+  * Auto build.
+
+ -- Launchpad Package Builder <noreply@launchpad.net>  Wed, 25 Jan 2017 20:32:44 +0000
+
+numix-icon-theme (0.3) UNRELASED; urgency=low
+
+  * New daily build.
+
+ -- Satyajit Sahoo <satyajit.happy@gmail.com>  Sun, 06 Oct 2013 08:34:32 +0530

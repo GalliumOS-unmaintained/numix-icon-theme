@@ -1,0 +1,15 @@
+Source: numix-icon-theme
+Section: gnome
+Priority: extra
+Maintainer: Satyajit Sahoo <satyajit.happy@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.4
+Homepage: https://launchpad.net/numix-icon-theme
+
+Package: numix-icon-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: Numix icon theme
+ Designed to look fresh, swishy and modern using white symbols on vividly
+ coloured background for applications and simplistic devices, toolbars
+ and status icons.
